@@ -1,2 +1,2 @@
 # Practica3_Vision_Artificial
-Ecualizacion del histograma
+Ecualizacion del histograma e imágenes RGB
